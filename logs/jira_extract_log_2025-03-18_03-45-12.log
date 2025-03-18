@@ -1,0 +1,5 @@
+2025-03-18 03:45:12,359 - INFO - Log gerado em: 2025-03-18 03:45:12
+2025-03-18 03:45:14,403 - INFO - Dados de EPICs e cards extraídos com sucesso.
+2025-03-18 03:45:14,409 - INFO - EPICs exportados para: /Users/daanloopes/Desktop/learning/learning-jira/data/epics.csv
+2025-03-18 03:45:14,410 - INFO - Cards exportados para: /Users/daanloopes/Desktop/learning/learning-jira/data/cards.csv
+2025-03-18 03:45:14,410 - INFO - Processo de exportação concluído com sucesso.

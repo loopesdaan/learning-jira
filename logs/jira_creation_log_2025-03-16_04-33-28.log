@@ -1,0 +1,69 @@
+2025-03-16 04:33:28,624 - INFO - Log gerado em: 2025-03-16 04:33:28
+2025-03-16 04:33:57,496 - INFO - EPIC 'BACKEND' criado com sucesso!
+2025-03-16 04:34:00,080 - INFO - Card 'CONFIGURAR AMBIENTE LOCAL COM PYTHON E POSTGRESQL' criado com sucesso!
+2025-03-16 04:34:00,974 - INFO - EPIC 'BACKEND' já existe. Pulando criação.
+2025-03-16 04:34:03,534 - INFO - Card 'CRIAR API REST COM FLASK PARA GERENCIAR TICKETS' criado com sucesso!
+2025-03-16 04:34:04,164 - INFO - EPIC 'BACKEND' já existe. Pulando criação.
+2025-03-16 04:34:06,696 - INFO - Card 'IMPLEMENTAR CRUD COMPLETO NA API' criado com sucesso!
+2025-03-16 04:34:07,450 - INFO - EPIC 'BACKEND' já existe. Pulando criação.
+2025-03-16 04:34:10,001 - INFO - Card 'CONFIGURAR AUTENTICAÇÃO JWT NA API' criado com sucesso!
+2025-03-16 04:34:11,931 - INFO - EPIC 'FRONTEND' criado com sucesso!
+2025-03-16 04:34:13,980 - INFO - Card 'CONFIGURAR PROJETO REACT COM TYPESCRIPT' criado com sucesso!
+2025-03-16 04:34:14,492 - INFO - EPIC 'FRONTEND' já existe. Pulando criação.
+2025-03-16 04:34:16,847 - INFO - Card 'CRIAR PÁGINA DE LOGIN E REGISTRO' criado com sucesso!
+2025-03-16 04:34:17,359 - INFO - EPIC 'FRONTEND' já existe. Pulando criação.
+2025-03-16 04:34:19,247 - INFO - Card 'CRIAR INTERFACE PARA ABERTURA DE TICKETS' criado com sucesso!
+2025-03-16 04:34:19,699 - INFO - EPIC 'FRONTEND' já existe. Pulando criação.
+2025-03-16 04:34:22,069 - INFO - Card 'IMPLEMENTAR ATUALIZAÇÃO DE STATUS DE TICKETS' criado com sucesso!
+2025-03-16 04:34:24,409 - INFO - EPIC 'VERSIONAMENTO' criado com sucesso!
+2025-03-16 04:34:26,105 - INFO - Card 'CRIAR REPOSITÓRIO NO GITHUB' criado com sucesso!
+2025-03-16 04:34:26,575 - INFO - EPIC 'VERSIONAMENTO' já existe. Pulando criação.
+2025-03-16 04:34:28,316 - INFO - Card 'CRIAR SCRIPT PYTHON CAPAZ DE AUTOMATIZAR CRIAÇÕES DE EPICS E CARDS' criado com sucesso!
+2025-03-16 04:34:29,237 - INFO - EPIC 'VERSIONAMENTO' já existe. Pulando criação.
+2025-03-16 04:34:30,773 - INFO - Card 'CONFIGURAR GITFLOW PARA GERENCIAMENTO DE BRANCHES' criado com sucesso!
+2025-03-16 04:34:32,328 - INFO - EPIC 'DEPLOY' criado com sucesso!
+2025-03-16 04:34:34,053 - INFO - Card 'CRIAR INSTÂNCIA DE BANCO DE DADOS NA AWS RDS' criado com sucesso!
+2025-03-16 04:34:34,563 - INFO - EPIC 'DEPLOY' já existe. Pulando criação.
+2025-03-16 04:34:36,445 - INFO - Card 'CONFIGURAR BACKEND EM ELASTIC BEANSTALK' criado com sucesso!
+2025-03-16 04:34:37,330 - INFO - EPIC 'DEPLOY' já existe. Pulando criação.
+2025-03-16 04:34:39,683 - INFO - Card 'CONFIGURAR FRONTEND EM AWS S3 + CLOUDFRONT' criado com sucesso!
+2025-03-16 04:34:40,311 - INFO - EPIC 'DEPLOY' já existe. Pulando criação.
+2025-03-16 04:34:42,245 - INFO - Card 'CONFIGURAR PIPELINE CI/CD PARA DEPLOY AUTOMÁTICO' criado com sucesso!
+2025-03-16 04:34:42,246 - INFO - Processo concluído com sucesso!
+2025-03-16 04:37:17,076 - INFO - EPIC 'BACKEND' já existe. Pulando criação.
+2025-03-16 04:37:17,896 - INFO - Card 'CONFIGURAR AMBIENTE LOCAL COM PYTHON E POSTGRESQL' já existe. Pulando criação.
+2025-03-16 04:37:18,508 - INFO - EPIC 'BACKEND' já existe. Pulando criação.
+2025-03-16 04:37:19,147 - INFO - Card 'CRIAR API REST COM FLASK PARA GERENCIAR TICKETS' já existe. Pulando criação.
+2025-03-16 04:37:19,633 - INFO - EPIC 'BACKEND' já existe. Pulando criação.
+2025-03-16 04:37:20,453 - INFO - Card 'IMPLEMENTAR CRUD COMPLETO NA API' já existe. Pulando criação.
+2025-03-16 04:37:21,375 - INFO - EPIC 'BACKEND' já existe. Pulando criação.
+2025-03-16 04:37:21,888 - INFO - Card 'CONFIGURAR AUTENTICAÇÃO JWT NA API' já existe. Pulando criação.
+2025-03-16 04:37:22,399 - INFO - EPIC 'FRONTEND' já existe. Pulando criação.
+2025-03-16 04:37:22,911 - INFO - Card 'CONFIGURAR PROJETO REACT COM TYPESCRIPT' já existe. Pulando criação.
+2025-03-16 04:37:23,424 - INFO - EPIC 'FRONTEND' já existe. Pulando criação.
+2025-03-16 04:37:23,935 - INFO - Card 'CRIAR PÁGINA DE LOGIN E REGISTRO' já existe. Pulando criação.
+2025-03-16 04:37:24,393 - INFO - EPIC 'FRONTEND' já existe. Pulando criação.
+2025-03-16 04:37:24,872 - INFO - Card 'CRIAR INTERFACE PARA ABERTURA DE TICKETS' já existe. Pulando criação.
+2025-03-16 04:37:25,779 - INFO - EPIC 'FRONTEND' já existe. Pulando criação.
+2025-03-16 04:37:26,700 - INFO - Card 'IMPLEMENTAR ATUALIZAÇÃO DE STATUS DE TICKETS' já existe. Pulando criação.
+2025-03-16 04:37:27,212 - INFO - EPIC 'VERSIONAMENTO' já existe. Pulando criação.
+2025-03-16 04:37:28,134 - INFO - Card 'CRIAR REPOSITÓRIO NO GITHUB' já existe. Pulando criação.
+2025-03-16 04:37:29,006 - INFO - EPIC 'VERSIONAMENTO' já existe. Pulando criação.
+2025-03-16 04:37:29,816 - INFO - Card 'CRIAR SCRIPT PYTHON CAPAZ DE AUTOMATIZAR CRIAÇÕES DE EPICS E CARDS' já existe. Pulando criação.
+2025-03-16 04:37:30,284 - INFO - EPIC 'VERSIONAMENTO' já existe. Pulando criação.
+2025-03-16 04:37:30,796 - INFO - Card 'CONFIGURAR GITFLOW PARA GERENCIAMENTO DE BRANCHES' já existe. Pulando criação.
+2025-03-16 04:37:31,615 - INFO - EPIC 'DEPLOY' já existe. Pulando criação.
+2025-03-16 04:37:32,435 - INFO - Card 'CRIAR INSTÂNCIA DE BANCO DE DADOS NA AWS RDS' já existe. Pulando criação.
+2025-03-16 04:37:33,356 - INFO - EPIC 'DEPLOY' já existe. Pulando criação.
+2025-03-16 04:37:33,766 - INFO - Card 'CONFIGURAR BACKEND EM ELASTIC BEANSTALK' já existe. Pulando criação.
+2025-03-16 04:37:34,280 - INFO - EPIC 'DEPLOY' já existe. Pulando criação.
+2025-03-16 04:37:34,648 - INFO - Card 'CONFIGURAR FRONTEND EM AWS S3 + CLOUDFRONT' já existe. Pulando criação.
+2025-03-16 04:37:35,506 - INFO - EPIC 'DEPLOY' já existe. Pulando criação.
+2025-03-16 04:37:35,920 - INFO - Card 'CONFIGURAR PIPELINE CI/CD PARA DEPLOY AUTOMÁTICO' já existe. Pulando criação.
+2025-03-16 04:37:37,656 - INFO - EPIC 'GESTAO' criado com sucesso!
+2025-03-16 04:37:39,400 - INFO - Card 'CRIACAO DE CONTAS DE EMAIL NA AWS' criado com sucesso!
+2025-03-16 04:37:39,852 - INFO - EPIC 'VERSIONAMENTO' já existe. Pulando criação.
+2025-03-16 04:37:41,959 - INFO - Card 'CRIAR BRANCHES PARA OS EPICS NO GIT' criado com sucesso!
+2025-03-16 04:37:42,472 - INFO - EPIC 'VERSIONAMENTO' já existe. Pulando criação.
+2025-03-16 04:37:44,521 - INFO - Card ' PROTEGER BRANCHE MASTER' criado com sucesso!
+2025-03-16 04:37:44,521 - INFO - Processo concluído com sucesso!
